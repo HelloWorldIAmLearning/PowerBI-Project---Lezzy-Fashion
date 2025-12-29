@@ -15,7 +15,7 @@ This project demonstrates the use of Microsoft Power BI to analyze sales and mar
 - Average Profit Margin
 - Average CTR (Click Through Rate) vs Conversion Rate
 - Total Transaction by State 
-- Product-based Sales Analysis using Year Slicer
+- Product-based Sales Analysis using Slicer
   
 ## Dataset
 The dataset used for this project is included in the 'PowerBI-Project---Lezzy-Fashion' folder.
