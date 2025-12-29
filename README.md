@@ -21,7 +21,7 @@ This project demonstrates the use of Microsoft Power BI to analyze sales and mar
 The dataset used for this project is included in the 'PowerBI-Project---Lezzy-Fashion' folder.
 
 ## Dashboard Preview
-![Dashboard PDF](PowerBI%20Project%20-%20Lezzy%20Fashion.pdf)
+[Click here to view the dashboard (PDF)](PowerBI%20Project%20-%20Lezzy%20Fashion.pdf)
 
 ## How to Use
 1. Download the '.pbix' file
